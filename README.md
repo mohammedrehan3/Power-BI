@@ -1,35 +1,6 @@
 # Power BI
-This Repository has **Power BI** Training Materials developed by **Myla Ram Reddy**.
-
-Please contact **Renuka** for **Training and Certification** @ [8374899166](https://wa.me/918374899166)(whatsapp)
-
 ----
-
 Gain a 360° of how to explore and use Power BI to build impactful reports. In this course, you’ll go from **zero** to **hero**, as you discover how to use this popular business intelligence platform through **hands-on exercises**. You’ll first learn how to confidently load and transform data using Power Query and the importance of data models, before diving into creating visualizations using Power BI’s drag-and-drop functionality. You’ll also learn how to drill-down into reports and make your reports fully interactive. Lastly, you'll level-up your skills using **DAX formulas** (Data Analysis Expressions) to create customized calculated columns and fields to better analyze your data. Get started now. You've got the power!
-
-
-![image](https://user-images.githubusercontent.com/20516321/121617831-5fb29e00-ca83-11eb-9482-cefedc822271.png)
-
-
----
-
-
-[![PBI01_01_Demo_Power_Query](https://th.bing.com/th/id/OIP.Ebot0gnVAXUENvSVCtRaaAHaEK?pid=ImgDet&rs=1)](https://youtu.be/bn0RbKYyLtI)
-
-https://user-images.githubusercontent.com/20516321/151648977-71a504bb-8206-4dd2-95c6-63a779cfcc07.mp4
-
-
-
-https://user-images.githubusercontent.com/20516321/151649055-6f37ee2d-ca85-4262-bb0b-de0ff842510b.mp4
-
-
-
-https://user-images.githubusercontent.com/20516321/151649108-b90ceb5d-e0df-4109-9a7b-4fe2ca5df19f.mp4
-
-
-
-https://user-images.githubusercontent.com/20516321/151649164-37de19fa-7019-4ce3-9757-892d9dbcf7e7.mp4
-
 
 ## Course Content
 
@@ -412,23 +383,4 @@ https://user-images.githubusercontent.com/20516321/151649164-37de19fa-7019-4ce3-
 	- Develop Power BI report using dataframe
 1. **Power BI Pro Vs Premium**
 	- Understand all from https://powerbi.microsoft.com/en-us/pricing/
-1. **Writing CV**
-1. **Marketing CV**
 
-## On Boarding Questions
-----
-1. What is the class duration?
-	- 45 days 
-2. How Many days in a week?
-	- Monday to Friday
-3. What time?
-	- Slot 1: 7AM IST to 8 AM IST or 8:30 PM ET to 9:30 PM ET (Running Batch)(iam half Way in this)
-	- Slot 2: 8AM to 9AM IST or 9:30 PM to 10:30 PM ET(New Batch)
-4. Where to get Materials?
-	- from Github cloud https://github.com/rritec/powerbi
-5. Where to get Videos?
-	- From our website https://datahexa.com/course/power-bi/
-6. Support after course completion?
-	- CV writing
-	- Job Marketing
-	- Once we got job then Job Support
